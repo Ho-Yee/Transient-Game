@@ -4,7 +4,7 @@
 * **Authors:** *Austin Van Braeckel, Sasha Seufert, and Alec Godfrey*
 * **Purpose:** *A final assignment for Grade 12 AP Programming*
 
-
+![Transient Preview](./TransientPic.jpg)
 
 * __*Author's note: Austin Van Braeckel*__
 
