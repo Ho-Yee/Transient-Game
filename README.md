@@ -15,7 +15,9 @@ that he could comprehend and therefore be includeded in the implementation proce
 both of my group members would agree that the game itself is entirely written by myself. I spent countless hours outside of the time given to us in-class, organizing,
 thinking-about, perfecting, debugging, documenting, creating original game-art, and cleaning-up the code of TRANSIENT due to my passion for programming.
 
+* __You can download the distributatble, "*TRANSIENT-DISTRIBUTABLE.zip*," extract the contents to a folder. Then run the "*TRANSIENT.jar*," where it has access to the "*resources*" and "*lib*" folders.
 
+* A known issue is that the game has minor compatibility issues on Mac, and is better suited for Windows-based systems. Also, there may be audio bugs depending on the system on which the game is run.
 
 * __*This project was developed using the NetBeans IDE, and so the .jar executable was built using NetBeans as well.*__
 
